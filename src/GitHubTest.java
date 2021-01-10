@@ -1,5 +1,6 @@
 public class GitHubTest {
     public static void main(String[] args) {
-        System.out.println("This is GitHubtest");
+        System.out.println("This is GitHubTest");
+
     }
 }
